@@ -1,0 +1,8 @@
+C:\lixo\testeBRTUHU\bin\X64\Debug\netcoreapp1.1\testeBRTUHU.deps.json
+C:\lixo\testeBRTUHU\bin\X64\Debug\netcoreapp1.1\testeBRTUHU.runtimeconfig.json
+C:\lixo\testeBRTUHU\bin\X64\Debug\netcoreapp1.1\testeBRTUHU.runtimeconfig.dev.json
+C:\lixo\testeBRTUHU\bin\X64\Debug\netcoreapp1.1\testeBRTUHU.dll
+C:\lixo\testeBRTUHU\bin\X64\Debug\netcoreapp1.1\testeBRTUHU.pdb
+C:\lixo\testeBRTUHU\obj\X64\Debug\netcoreapp1.1\testeBRTUHU.AssemblyInfo.cs
+C:\lixo\testeBRTUHU\obj\X64\Debug\netcoreapp1.1\testeBRTUHU.dll
+C:\lixo\testeBRTUHU\obj\X64\Debug\netcoreapp1.1\testeBRTUHU.pdb
